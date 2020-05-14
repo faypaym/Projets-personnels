@@ -1,4 +1,4 @@
-# Projets-personnels
-Le dossier de mes projets
+# Réalisations
+Le dossier de mes réalisations
 
-Ici vous trouverez certains de mes projets personnels ainsi que des exercices du DUT informatique de Vannes.
+Ici vous trouverez certaines de mes réalisations ainsi que des exercices du DUT informatique de Vannes.
